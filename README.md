@@ -43,8 +43,12 @@ pip install opencv-python numpy PyQt6
 ```
 
 ### 3. Установка файлов приложения
-Нажмите Code -> Download ZIP в репозитории, затем распакуйте на вашем устройстве.
-
+Если на устройстве установлен git, выполните:
+```bash
+git clone https://github.com/plushrfn/image-app.git
+cd image-app
+```
+Если git не установлен, скачайте zip-архив image-app и распакуйте на своем устройстве
 ### 4. Запуск приложения
 Выполните в терминале:
 ```bash
